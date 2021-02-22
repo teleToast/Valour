@@ -89,7 +89,7 @@ By accessing or using the Service You agree to be bound by these Terms and
 Conditions. If You disagree with any part of these Terms and Conditions then
 You may not access the Service.
 
-You represent that you are over the age of 13. The Company does not permit
+You represent that you are 13 or over the age of 13. The Company does not permit
 those under 13 to use the Service.
 
 Your access to and use of the Service is also conditioned on Your acceptance
